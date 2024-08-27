@@ -1,4 +1,6 @@
 # termux miner
+Termux: https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
+
 1. Installing clang and dependencies:
 ```
 yes | pkg update && pkg upgrade
