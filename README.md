@@ -33,7 +33,7 @@ nano config.json
         }],
 
     "user": "RWzo3bqZLfGiQCowKXVWRn9mrLg5VneA6X.mi8l_pc",
-    "pass": "hybrid",
+    "pass": "",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
