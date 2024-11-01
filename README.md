@@ -27,7 +27,7 @@ nano config.json
     "pools":
         [{
             "name": "SETTING_verus",
-            "url": "stratum+tcp://ap.luckpool.net:3956",
+            "url": "stratum+tcp://sg.vipor.net:5045",
             "timeout": 180,
             "disabled": 0
         }],
