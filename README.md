@@ -7,12 +7,13 @@ cd ccminer
 chmod +x ccminer start.sh
 ```
 nano config.json
-```
+
 auto
 ```
 cd ..
 nano ../usr/etc/bash.bashrc
----
+
+
 cd ccminer/&&./start.sh
 
 
