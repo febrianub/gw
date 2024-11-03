@@ -1,6 +1,8 @@
 # termux miner
 yes | pkg update && pkg upgrade
+'''
 yes | pkg install libjansson nano git
+'''
 
 git clone https://github.com/zikyu7/ccminer
 cd ccminer
