@@ -1,14 +1,3 @@
-# termux miner
-yes | pkg update && pkg upgrade
-
-yes | pkg install libjansson nano git
-
-git clone https://github.com/zikyu7/ccminer
-cd ccminer
-chmod +x ccminer start.sh
-
-nano config.json
-
 5. wallet
 ```
 {
@@ -35,8 +24,4 @@ nano config.json
         "api-allow": "192.168.0.0/16",
         "api-bind": "0.0.0.0:4068"
 }
-```
-7. Finally run the miner with:
-```
-~/ccminer/start.sh
 ```
