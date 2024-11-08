@@ -25,7 +25,4 @@
         "api-bind": "0.0.0.0:4068"
 }
 ```
-
-https://apkpure.com/verusminer/com.pangzlab.verus_miner
-
-
+https://pangz-lab.github.io/verusminer/#downloads
