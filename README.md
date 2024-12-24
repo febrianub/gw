@@ -28,3 +28,6 @@
 https://pangz-lab.github.io/verusminer/#downloads
 
 https://github.com/pangz-lab/verus_miner-release/raw/main/v5.0.0/app.apk
+
+kernel test
+https://drive.google.com/file/d/1BkshiwwtInotAn1PfjFZKbk8HFzOWtbg/view?usp=drivesdk
